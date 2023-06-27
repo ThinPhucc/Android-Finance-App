@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00F3F1F1"
+    tools:context=".AccountFragment">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="275dp"
+        android:layout_marginTop="-10dp"
+        android:src="@drawable/account_fragmt_image_background" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="179dp"
+        android:layout_height="151dp"
+        android:layout_marginLeft="220dp"
+        android:layout_marginTop="170dp"
+        android:src="@drawable/register_image_account" />
+
+    <ListView
+        android:id="@+id/fragmnt_account_lstview"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="285dp"
+        android:divider="@null"
+        android:scrollbars="none" />
+
+    <TextView
+        android:id="@+id/fragmnt_accnt_txt_name"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="215dp"
+        android:layout_marginRight="170dp"
+        android:gravity="center"
+        android:text="Name"
+        android:textColor="#FDFDFD"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+</FrameLayout>

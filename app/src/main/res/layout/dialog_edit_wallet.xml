@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:background="@drawable/botron_dialog_thuchi"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/wallet_edit_txt_tenvi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/botron_2ben_top_dialog_thuchi"
+        android:drawableRight="@drawable/ic_edit_dialog"
+        android:drawableTint="#FFFFFF"
+        android:gravity="center"
+        android:paddingRight="20dp"
+        android:text="abc"
+        android:textColor="#FFFFFF"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:drawableLeft="@drawable/ic_money"
+            android:drawableTint="#0883E2"
+            android:gravity="center_vertical" />
+
+        <EditText
+            android:id="@+id/wallet_edit_txt_sotien"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/line_text"
+            android:ems="10"
+            android:hint="Số Tiền"
+            android:inputType="number"
+            android:textColor="#292727"
+            android:textSize="22dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/wallet_edit_txt_ghichu"
+        android:layout_width="350dp"
+        android:layout_height="120dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/botron_textview"
+        android:ems="10"
+        android:hint="Ghi chú"
+        android:inputType="textMultiLine|textPersonName"
+        android:paddingLeft="20dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/wallet_edit_btn_huy"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:alpha="0.9"
+            android:backgroundTint="#8E8686"
+            android:text="Huỷ"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            app:cornerRadius="7dp" />
+
+        <Button
+            android:id="@+id/wallet_edit_btn_luu"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1"
+            android:alpha="0.9"
+            android:backgroundTint="#EC4F4F"
+            android:text="Lưu"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            app:cornerRadius="7dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

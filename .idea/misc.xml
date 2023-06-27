@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project Android/PuAndroid/app/src/main/res/layout/activity_login.xml" value="0.153125" />
+        <entry key="..\:/Project Android/PuAndroid/app/src/main/res/layout/activity_register.xml" value="0.18" />
+        <entry key="..\:/Project Android/PuAndroid/app/src/main/res/layout/custom_layout_item_thuchi.xml" value="0.22" />
+        <entry key="..\:/Project Android/PuAndroid/app/src/main/res/layout/custom_layout_item_wallet.xml" value="0.18" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.10555555555555556" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/botron_2ben_top_dialog_thuchi.xml" value="0.19743589743589743" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/botron_2ben_top_txt_dialog.xml" value="0.18046875" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/botron_button.xml" value="0.1" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/botron_dialog_addwallet.xml" value="0.18046875" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/botron_dialog_thuchi.xml" value="0.1949367088607595" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/botron_linear_frgmnt_home.xml" value="0.1" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/botron_linear_layout.xml" value="0.18046875" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/botron_resource.xml" value="0.10555555555555556" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/botron_textview.xml" value="0.1" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/botron_top_left_locthuchi.xml" value="0.1949367088607595" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/botron_top_right_locthuchi.xml" value="0.1949367088607595" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/botron_view.xml" value="0.10555555555555556" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/botron_white_fgm_addwallet.xml" value="0.19743589743589743" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/for_nav_menu.xml" value="0.19" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/fragmnt_home_icon_add.xml" value="0.1" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/fragmtn_home_icon_add.xml" value="0.1" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/ic_back.xml" value="0.18046875" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/ic_baseline_account_balance_wallet_24.xml" value="0.1" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/ic_calender.xml" value="0.18046875" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/ic_delete.xml" value="0.165234375" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/ic_launcher_background.xml" value="0.10555555555555556" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/ic_money.xml" value="0.18046875" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/icon_eye.xml" value="0.18046875" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/icon_loc_du_lieu.xml" value="0.18046875" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/line_linear_layout_locthuchi.xml" value="0.19743589743589743" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/line_text.xml" value="0.1" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/login_icon_pwd.xml" value="0.1" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/navmenu_icon_account.xml" value="0.12407407407407407" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/navmenu_icon_analys.xml" value="0.12407407407407407" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/navmenu_icon_home.xml" value="0.12407407407407407" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/navmenu_icon_wallet.xml" value="0.12407407407407407" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/register_icon_phonenumber.xml" value="0.1" />
+        <entry key="..\:/PuAndroid/app/src/main/res/drawable/text_line.xml" value="0.1" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/activity_add_thu_chi.xml" value="0.2" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/activity_all_thu_chi.xml" value="0.25" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/activity_change_pass.xml" value="0.22" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/activity_info_account.xml" value="0.19635416666666666" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/activity_register.xml" value="0.18" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/activity_thong_ke_thu_chi.xml" value="0.168359375" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/activity_thu_chi_show_info.xml" value="0.25" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/activity_wallet.xml" value="0.168359375" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/cardview_account_fragmnt_listview.xml" value="0.18854166666666666" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/custom_dialog_addwallet.xml" value="0.21" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/custom_layout_item_thuchi.xml" value="0.25" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/custom_layout_item_wallet.xml" value="0.2" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/custom_layout_thuchi.xml" value="0.25" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/custom_text_spinner.xml" value="0.19635416666666666" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/custom_text_spinner_allthuchi.xml" value="0.1841880341880342" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/custom_text_spinner_thongke.xml" value="0.168359375" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/dialog_edit_thuchi.xml" value="0.25" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/dialog_edit_wallet.xml" value="0.25" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/dialog_thuchi_info.xml" value="0.25" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/dialog_wallet_info.xml" value="0.25" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/fragment_account.xml" value="0.22" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/fragment_add__thu__chi_fragment.xml" value="0.19583333333333333" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/fragment_add_wallet.xml" value="0.25" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/fragment_info__thu_chi.xml" value="0.22" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/fragment_load__add__thu_chi_.xml" value="0.168359375" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/fragment_thong_ke.xml" value="0.25" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/fragment_wallet.xml" value="0.22" />
+        <entry key="..\:/PuAndroid/app/src/main/res/layout/login.xml" value="0.25" />
+        <entry key="..\:/PuAndroid/app/src/main/res/menu/bottom_nav_menu.xml" value="0.22" />
+        <entry key="..\:/PuAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
